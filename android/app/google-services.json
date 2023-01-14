@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083609194238",
+    "project_id": "finalshifterappddm",
+    "storage_bucket": "finalshifterappddm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083609194238:android:e18691d15ed1e413f24faf",
+        "android_client_info": {
+          "package_name": "com.finalshifterddm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083609194238-2qav85eeguf5b387rvrl2k57p06menoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CBZdeF_1PL4wi72I1yn_lBfhbWzHSKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083609194238-2qav85eeguf5b387rvrl2k57p06menoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
